@@ -2,95 +2,179 @@
 <items version="2" >
 
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.9.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_79f91c594284cdb7cf0a4f2edff963a72553e8b7/classes.dex" />
+        sha1="0ca05b62d108406bc08eb0ff9e0d619203724eff">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-ui-1.9.0_d6f76342ecefe6a28bf727af2114bc2214960304/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.9/jars/classes.jar"
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="6bcf11222c8dd57b4ddf4da06fa15c8fc3f903dd">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.9_e56730ba264c7050f2e6ad9cf5b38e41051ec572/classes.dex" />
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.8.0_679c54b297319d089d4fb4481fbe7b24925c5ac7/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_29635a5647e1f4f7d1d1adb82c44995feff00756/classes.dex" />
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr250-api-1.0_a73421e969fcf80a59c07f382a34fa4fed464751/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.10/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c4ba741405e6cfa790355a1544639858ddaf9bff/classes.dex" />
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.10_f51e1f06c499e8e1321a8c42efeb22f887f7c6c7/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="3a84ef1ef743f73c75a5eaebbfb0636e3ecce55a">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5803b1379d90cecd74f064a74ca8b61279fa1ad5/classes.dex" />
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_c12856cb124e1b8c9845aafaff8c2de1d94af622/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_fe7a4e6945680a2ba05a4efaaef231aeeb374178/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_47cf0b47bcfd5f013e1139b5b55b987ca52ae3d5/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.1/1261dfca5bae89a866a2855552da26feab7f8fad/dagger-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.0.1_e8b5189d4ec6d0486a2f60b387033f936ca5f459/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_7af0dd05abcf987159512b78cb4138b115c6983a/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="07d3405362f9b5e93438e686726df604ae622678">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2110a7cc331804f328e8f8f1be47ba85bce9be93/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3_7f88a1b25d878b492d1786fd9725d95853ae646d/classes.dex" />
     </item>
     <item
         jar="/home/nacheteam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1b9c6b2bb7a63632467556ddad3a80b793a5df2e/classes.dex" />
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1b9c6b2bb7a63632467556ddad3a80b793a5df2e/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.3/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="45b0536e196b423728e8365560e37508f80032dd">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c020387ee3a0882d3a4d7e809a487fac55ca55e/classes.dex" />
+        sha1="990cba7dbe7fc91e1082a9a8ea6d663c0741a0f1">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.digits.sdk.android-digits-1.9.3_e866913572686adbe5076dd6b75e3cc8429b4ecb/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.11/jars/classes.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.2/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="9505232840ada5bc281f012c9798a6e49900d4ea">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.11_d22fd6da274b029838e014d44d5a40fabffd8200/classes.dex" />
+        sha1="7066f2c5d8b2e4d2232d0713436f80e929afd2fd">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-tweet-composer-1.0.2_9c707c61a2ec7ccad87f59adefa279330a0b8771/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_0bee2610efa6fa2d34709e1d545e84c359393d9a/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.12.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="56c978fe05228a996c839624f9a48fe235c9612c">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-1.12.0_83b524b7fdd4fc30a72a702188de51c630d2cc36/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e97f3e95207163b82d29b95375dc090ef0745223">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5df8d70734f86ae5f1a8c03ce7a98c0f9504bed5/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_dbaa084a05a928f12fb97203f07b4208887f18ee/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_1f364efb765f0b44d95dbf82e892c8b3fccfbba0/classes.dex" />
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_969440dcfc7fbc1efa50446c2e3d9f9b463a2bde/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.6/jars/classes.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="cb73560edb89cb7afe1d0d5455595c27866af7c6">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.5.6_bfd5e0eba9771df335ee832f1f3c47b9a6a85987/classes.dex" />
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_2db12c97dc1e409faf585be32b8427ab8d6bbafe/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.7/jars/classes.jar"
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="4711b6bd1e41291912e98c23954cb3d11ca36bd5">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.7_22afaf5bafc83415819bf8db6a5a640ef1233119/classes.dex" />
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_b01041007e687f4f3f5e6e8b7d99a2eba512a046/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.5/jars/classes.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="557bcc987cc2438e5162476bc8c953a37b683fb9">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.1.5_179c3cf3bb2f08fde6b59d6951a80a9c2a47a3e4/classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_a674c3709a379977d9ba5b89a03385a4231bf3b2/classes.dex" />
     </item>
     <item
-        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_7a455a6503aed5630113bc9030b60f8e43e5b6da/classes.dex" />
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_ab9d878f6e337a230a0f14d0261a899dd66cfdc1/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b272ca6a1525f5c6215224eb3cfeb32eb5270667">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.twitter.sdk.android-twitter-core-1.6.3_79abc87283a9d57dcd59d63927e777a73c810c02/classes.dex" />
+    </item>
+    <item
+        jar="/home/nacheteam/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/nacheteam/Dropbox/Doble Grado DGIIM/Mis cosas/Cursos/Android/AndroidTwitterClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_e87db9429694aae367a929c4d10beac2358e5d7f/classes.dex" />
     </item>
 
 </items>
